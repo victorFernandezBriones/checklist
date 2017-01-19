@@ -1,0 +1,189 @@
+/*----------------------*/
+/*      COLORES        */
+/*--------------------*/
+/*      FONDOS       */
+
+.color-principal{
+    background-color: #761c19 !important;
+}
+
+.color-secundario{
+    background-color:#fff !important;
+}
+
+.color-adicional{
+    background-color: #FCF161;
+}
+
+/* COLORES LETRAS E ICONOS */
+.blanco{
+    color: #fff !important;
+}
+
+.negro{
+    color:#000 !important;
+}
+
+.plomo{
+    color:#8c8c8c !important;
+}
+
+.principal{
+    color:#761c19 !important;
+}
+/* SOMBRAS  */
+
+.sombraPanel{
+    -webkit-box-shadow: -1px 9px 18px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 9px 18px -4px rgba(0,0,0,0.75);
+    box-shadow: -1px 9px 18px -4px rgba(0,0,0,0.75);
+}
+
+.sombra-derecha{
+    -webkit-box-shadow: 9px 3px 18px -10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 3px 18px -10px rgba(0,0,0,0.75);
+    box-shadow: 9px 3px 18px -10px rgba(0,0,0,0.75);
+}
+
+hr{
+    border: 0;
+    height: 0; 
+    border-top: 2px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+.noResize{
+    resize: none !important;
+}
+
+.noDisplay{
+    display: none;
+}
+
+.maxWidth{
+    width:100% !important;
+}
+
+.gifCarga{
+    margin-top: 5%;
+}
+
+.margin-top{
+    margin-top: 5%;
+}
+/*------------------------*/
+/*        INICIO         */
+/*----------------------*/
+
+.tabla-contratos th{
+    text-align: center;
+}
+
+.tabla-checklist th{   
+    background-color: #8c8c8c;
+    color:#fff;
+    font-size: 12px;   
+    border:1px solid #000;
+    padding:4px;
+    text-align: center;
+}
+
+.tabla-checklist{
+    width: 100%;
+    margin-bottom: 2%;
+}
+
+.tabla-checklist td{
+    border:1px solid #8c8c8c;
+    padding:4px;
+    text-align: left;
+}
+
+.tabla-checklist tr{
+    border:1px solid #8c8c8c;
+}
+
+/*----------------------*/
+/*        NAVBAR       */
+/*--------------------*/
+.foto-logo{
+    width:55%;
+    height:40px;
+}
+
+.foto-logo-min{
+    width:65px;
+    height:40px;
+}
+
+.topbar .topbar-left,.topbar nav{
+    height: 80px;
+}
+
+.color-principal i{
+    color: #fff;
+}
+
+.topbar .dropdown-menu{
+    background-color: #761c19;    
+}
+
+.topbar .dropdown-menu li a{
+    color:#fff;
+}
+.topbar .dropdown-menu li a:hover{
+    background-color: #e1e1e1;
+    color:#828282;
+}
+
+/*----------------------*/
+/*    NAVBAR LATERAL   */
+/*--------------------*/
+.has_sub a{
+    background-color: #eeeeee;
+}
+
+/*----------------------*/
+/*    ADM.Checklist   */
+/*--------------------*/
+#fechaChecklist-error{
+    margin-left: 7% !important;
+}
+
+#tablaHistorialChecklist{
+    border:2px solid #eeeeee;
+}
+
+#tablaHistorialChecklist th{
+    background-color: #8c8c8c;
+    color:#fff;
+    font-size: 12px;   
+    border:1px solid #000;
+    padding:4px;
+    text-align: center;
+}
+#tablaHistorialChecklist tr{
+    border:1px solid #8c8c8c;
+}
+#tablaHistorialChecklist td{
+    text-align: center;
+    border:1px solid #8c8c8c;
+    padding:4px;
+}
+/*----------------------*/
+/*    CONFIGURACION    */
+/*--------------------*/
+
+/*    USUARIOS    */
+
+
+
+
+/*----------------------*/
+/*     MEDIA QUERYS    */
+/*--------------------*/
+
+/*-------------------*/
+/*       LOGIN      */
+/*-----------------*/
+
